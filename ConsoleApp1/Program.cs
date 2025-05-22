@@ -11,6 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("hellow one more from git");
+
+
+            Console.WriteLine("hellow one more from git"); Console.WriteLine("hellow one more from git"); Console.WriteLine("hellow one more from git"); Console.WriteLine("hellow one more from git");
         }
     }
 }
